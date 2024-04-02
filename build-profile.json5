@@ -1,0 +1,41 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\xa_app_android\\.ohos\\config\\auto_debug_SsportPlugin_com.qiyi.ssportplugin_30086000648039109.cer",
+          "storePassword": "0000001BF9A0FD55DD6476523995E37CB8AA99A17ADFC264FE48E80F51A640118C7C11D90D7ABFE6EBF849",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001B36C56F048A9E64DDD0B0B18A04CF6B0ECA4465471FA98B9EFCBEC532FA374C199EB3FE9B892456",
+          "profile": "C:\\Users\\xa_app_android\\.ohos\\config\\auto_debug_SsportPlugin_com.qiyi.ssportplugin_30086000648039109.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\xa_app_android\\.ohos\\config\\auto_debug_SsportPlugin_com.qiyi.ssportplugin_30086000648039109.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
