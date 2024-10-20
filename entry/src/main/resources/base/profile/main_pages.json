@@ -19,6 +19,7 @@
     "pages/WebLocalH5",
     "pages/VideoDemo",
     "pages/NotificationPage",
-    "pages/device/DeviceInfo"
+    "pages/device/DeviceInfo",
+    "pages/PlayControlViewAutoHiden"
   ]
 }

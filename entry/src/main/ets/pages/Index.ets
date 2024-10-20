@@ -25,6 +25,8 @@ const routers: RouterInfo[] = [
   new RouterInfo('pages/WebLocalH5', 'web容器'),
   new RouterInfo('pages/VideoDemo', '视频播放'),
   new RouterInfo('pages/NotificationPage', '通知案例'),
+  new RouterInfo('pages/NotificationPage', '通知案例'),
+  new RouterInfo('pages/PlayControlViewAutoHiden', '仿播控自动隐藏'),
 ]
 
 @Entry

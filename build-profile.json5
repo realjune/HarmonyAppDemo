@@ -13,16 +13,31 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "/Users/wjx/.ohos/config/default_SsportPlugin_L9eXxQF5JrYPonG5PIY1fK4uvO00C2dOMYEaiGYU998=.cer",
-          "storePassword": "0000001B03E8A309F0B4E2BA276D635E079416DF16AD7189F25D331CA8E8EAF903BCED4997379641ADB656",
+          "certpath": "/Users/junxuwang/.ohos/config/default_HarmonyAppDemo_qjDDKeEMAWzDtxS3B03jjeg0IwnxFl2f6ZkDQ5LGOpk=.cer",
+          "storePassword": "0000001BCB273F1667552D043AA08CE3213FA5DB26E5DFD11A5FE290CDA2F993229FA52AC8DE8E0CC84C66",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B6AA45913B4A94DE8D7A501C458ECF7217E1C8B5227A28501E7DAAE731B727809D7CBE8642AE8DC",
-          "profile": "/Users/wjx/.ohos/config/default_SsportPlugin_L9eXxQF5JrYPonG5PIY1fK4uvO00C2dOMYEaiGYU998=.p7b",
+          "keyPassword": "0000001BDCE9D22665AC1438816636C97E62C3F2535AA7E05BEBD901537B88F9E12BD7E2DE27ADCAAF1E27",
+          "profile": "/Users/junxuwang/.ohos/config/default_HarmonyAppDemo_qjDDKeEMAWzDtxS3B03jjeg0IwnxFl2f6ZkDQ5LGOpk=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "/Users/wjx/.ohos/config/default_SsportPlugin_L9eXxQF5JrYPonG5PIY1fK4uvO00C2dOMYEaiGYU998=.p12"
+          "storeFile": "/Users/junxuwang/.ohos/config/default_HarmonyAppDemo_qjDDKeEMAWzDtxS3B03jjeg0IwnxFl2f6ZkDQ5LGOpk=.p12"
         }
       }
     ]
+    //    "signingConfigs": [
+    //      {
+    //        "name": "default",
+    //        "type": "HarmonyOS",
+    //        "material": {
+    //          "certpath": "/Users/wjx/.ohos/config/default_SsportPlugin_L9eXxQF5JrYPonG5PIY1fK4uvO00C2dOMYEaiGYU998=.cer",
+    //          "storePassword": "0000001B03E8A309F0B4E2BA276D635E079416DF16AD7189F25D331CA8E8EAF903BCED4997379641ADB656",
+    //          "keyAlias": "debugKey",
+    //          "keyPassword": "0000001B6AA45913B4A94DE8D7A501C458ECF7217E1C8B5227A28501E7DAAE731B727809D7CBE8642AE8DC",
+    //          "profile": "/Users/wjx/.ohos/config/default_SsportPlugin_L9eXxQF5JrYPonG5PIY1fK4uvO00C2dOMYEaiGYU998=.p7b",
+    //          "signAlg": "SHA256withECDSA",
+    //          "storeFile": "/Users/wjx/.ohos/config/default_SsportPlugin_L9eXxQF5JrYPonG5PIY1fK4uvO00C2dOMYEaiGYU998=.p12"
+    //        }
+    //      }
+    //    ]
   },
   "modules": [
     {
