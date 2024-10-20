@@ -1,10 +1,13 @@
 import UIAbility from '@ohos.app.ability.UIAbility';
 import hilog from '@ohos.hilog';
 import window from '@ohos.window';
+import PreferencesUtil from '../common/util/PreferencesUtil';
 
 export default class EntryAbility extends UIAbility {
-  onCreate(want, launchParam) {
+  async onCreate(want, launchParam) {
     hilog.info(0x0000, 'testTag', '%{public}s', 'Ability onCreate');
+    // 加载preferences
+    await PreferencesUtil.loadPreference(this.context, 'MyPreference')
   }
 
   onDestroy() {

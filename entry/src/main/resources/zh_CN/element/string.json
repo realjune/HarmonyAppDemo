@@ -10,11 +10,19 @@
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "Myentry"
     },
     {
       "name": "image_width_label",
-      "value": "输入图片宽度"
+      "value": "输入图片宽度: "
+    },
+    {
+      "name": "recharge_button",
+      "value": "recharge"
+    },
+    {
+      "name": "phone_check",
+      "value": "The tel isn't empty"
     }
   ]
 }

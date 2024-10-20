@@ -1,5 +1,24 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/ArkTsDemo",
+    "pages/ImageSizeDemo",
+    "pages/PhoneProductList",
+    "pages/TaskListManager",
+    "pages/HelloWorld",
+    "pages/StatePage",
+    "pages/ProvidePage",
+    "pages/AnimationPage",
+    "pages/AnimationTest",
+    "pages/AnimationPage2",
+    "pages/LifeCirclePage",
+    "pages/TestPage1",
+    "pages/TestPage2",
+    "pages/ShopPage",
+    "pages/TaskManagePage",
+    "pages/WebLocalH5",
+    "pages/VideoDemo",
+    "pages/NotificationPage",
+    "pages/device/DeviceInfo"
   ]
 }
